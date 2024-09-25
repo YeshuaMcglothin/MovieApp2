@@ -30,7 +30,7 @@ public class Main {
 
         System.out.println("First movie: " + moviesNames[0]); //0 = First item and starts from 0
         System.out.println("Secound movie: " + moviesNames[1]);
-        //System.out.println("Third movie: " + moviesNames[2]);
+        System.out.println("Third movie: " + moviesNames[2]);
 
 
     }
